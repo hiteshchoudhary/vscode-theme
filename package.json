@@ -11,6 +11,14 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "best dark theme",
+    "coder theme",
+    "chai aur code",
+    "hitesh choudhary"
+  ],
   "icon": "./images/icon.png",
   "categories": [
     "Themes"
