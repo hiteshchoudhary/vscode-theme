@@ -3,7 +3,11 @@
   "displayName": "chai theme",
   "description": "A set of amazing theme to write and teach code",
   "version": "0.0.1",
-  "publisher": "Hitesh Choudhary",
+  "publisher": "hiteshchoudharycode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiteshchoudhary/vscode-theme"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
