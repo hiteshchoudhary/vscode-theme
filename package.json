@@ -2,7 +2,7 @@
   "name": "chai-theme",
   "displayName": "chai theme",
   "description": "A set of amazing theme to write and teach code",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "hiteshchoudharycode",
   "icon": "images/chai.png",
   "repository": {
