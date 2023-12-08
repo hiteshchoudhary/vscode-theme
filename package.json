@@ -10,7 +10,7 @@
     "url": "https://github.com/hiteshchoudhary/vscode-theme"
   },
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.60.0"
   },
   "keywords": [
     "theme",
