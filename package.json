@@ -4,6 +4,7 @@
   "description": "A set of amazing theme to write and teach code",
   "version": "0.0.1",
   "publisher": "hiteshchoudharycode",
+  "icon": "images/chai.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/hiteshchoudhary/vscode-theme"
@@ -19,7 +20,6 @@
     "chai aur code",
     "hitesh choudhary"
   ],
-  "icon": "./images/icon.png",
   "categories": [
     "Themes"
   ],
