@@ -2,9 +2,9 @@
 
 There are 2 versions of this theme
 - **Dark Chai** (what I use)
-- **Light Chai** (these coders still exists)
+- **Light Chai** (these coders still exist)
 
-This theme is designed keeping in mind that there are lots of teachers who teach coding and programming on youtube or their online courses. The challenges that I faced during the same are resolved in this theme such as highlighting the file name in top bar, bright token color of functions and strings for better recording etc.
+This theme is designed keeping in mind that there are lots of teachers who teach coding and programming on YouTube or their online courses. The challenges that I faced during the same are resolved in this theme such as highlighting the file name in the top bar, bright token color of functions and strings for better recording etc.
 
 It took me around 1 year to analyse all these issues and finally publish this theme.
 
@@ -13,7 +13,7 @@ It took me around 1 year to analyse all these issues and finally publish this th
 ![Dark Theme](/images/dark-chai.png)
 
 ### Features
-- Best in recoding videos
+- Best in recording videos
 - Highlights your active tab
 - Each language token is customized
 
@@ -37,7 +37,7 @@ Light theme is for those folks who still love to work in light theme. You might 
 
 My Name is `Hitesh Choudhary` and I make coding videos in English as well as Hindi language.
 
-My youtube channel links:
+My YouTube channel links:
 
 - [English channel](https://youtube.com/hiteshchoudharydotcom)
 - [Hindi Channel](https://www.youtube.com/@chaiaurcode)
